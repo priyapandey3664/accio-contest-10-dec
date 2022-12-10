@@ -7,18 +7,39 @@ body{
   background: black;
   height: 100vh;
   width: auto;
+  margin-left: 200px;
+  margin-right: 200px;
   
 }
+p{
+  margin-top: -18px;
+  margin-left: 280px;
+}
+h3.sym{
+  margin-top: -24px;
+  margin-left: 500px;
+}
+
+h3.price{
+  margin-top: -24px;
+  margin-left: 620px;
+}
 
 
+h3.vol{
+  margin-top: -24px;
+  margin-left: 780px;
+}
 
-
-
+h2{
+  margin-top: -38px;
+  margin-left: 40px;
+}
 img{
+  margin-top: 16px;
   width:30px;
-  padding-top:20 px;
+  /* padding-top:0 px; */
 }
-.main {
-  margin: 10px 0;
-  padding: 5px 25px;
-}
+
+
+
